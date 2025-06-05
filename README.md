@@ -1,1 +1,4 @@
-# second_repo
+# My Project
+##   Learning Version control
+* git
+* Github
